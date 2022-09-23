@@ -1,5 +1,5 @@
 current directory: /home/goswami/projects/go/src/github.com/goswami/just-the-docs-easy-vault/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220903-6654-h1xk1y.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220923-17647-rvuu7.rb extconf.rb
 creating Makefile
 
 current directory: /home/goswami/projects/go/src/github.com/goswami/just-the-docs-easy-vault/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/goswami/projects/go/src/github.com/goswami/just-the-docs-easy-vault/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20220903-6654-eian5w/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20220923-17647-9eln0p/sassc
