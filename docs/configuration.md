@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration
-nav_order: 2
+nav_order: 3
 ---
 
 # Configuration
@@ -24,7 +24,7 @@ View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/t
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/ev_logo.png"
 ```
 
 ## Search
@@ -97,7 +97,6 @@ heading_anchors: true
 ## External navigation links
 
 External links can be added to the navigation through the `nav_external_links` option.
-See [Navigation Structure]({{ site.baseurl }}{% link docs/navigation-structure.md %}#external-navigation-links) for more details.
 
 ## Footer content
 
@@ -153,7 +152,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
 
 ## Callouts
 
